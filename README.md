@@ -37,4 +37,4 @@ Copy all content from GitHub Pages and paste it directly into the email body for
 <img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/3ac297fd-db9c-41c0-bbb1-2111519083cd" />
 
 ## For LINE Outreach Sponsors: Publishing Newsletter on GitHub
-我不知道電子報要怎麼上傳到GitHub(readme?)
+

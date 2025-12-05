@@ -1,9 +1,6 @@
 # NTHU Racing Newsletter Production, Refinement & Delivery
 The project is going to cover the newletter production process, refinement through Sourcetree and Visual Studio Code, and the preperation for two delivery formats for Gmail and LINE sponsor outreach.
 
-## Newsletter Production Using Mailchimp
-教學影片
-
 ## Refinement and Customization
 ### a. Download
 1. Download SourceTree, Visual Studio Code, and Git.

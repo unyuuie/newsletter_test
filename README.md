@@ -5,13 +5,11 @@ The project is going to cover the newletter production process, refinement throu
 ### a. Download
 1. Download SourceTree, Visual Studio Code, and Git.
 2. Go to `Extension` in Visual Studio Code and search for Live Server. Press install.
-   
-   ![live server](https://github.com/user-attachments/assets/982f19d9-1ec2-474e-b3f2-baba6f2d9521)
 
 ### b. Setup
 1. Save all images used in the newsletter locally.
 2. Export the HTML file from Mailchimp: Copy the entire code and paste it on Visual Studio Code, then press `Save as...` and named it index.html
-3. Put the images and index.html in a Project_FOLDER.
+3. Put the images and index.html in a Project_Folder.
    ```
    Project_FOLDER
    | index.html
@@ -21,7 +19,7 @@ The project is going to cover the newletter production process, refinement throu
    |     |--  image2.png
    ```
 
-4. Use Visual Studio Code to open Porject_FOLDER.
+4. Use Visual Studio Code to open Porject_Folder.
 5. Press `Go Live` in the bottom right in Visual Studio Code.
 
    
@@ -46,9 +44,9 @@ The project is going to cover the newletter production process, refinement throu
 ### e. SourceTree and GitHub
 1. Create a GitHub account and join NTHU-Racing's organization.
 2. Connect SourceTree to your personal GitHub account.
-Tutorial: https://s81679.github.io/2020/04/09/start-sourcetree/#%E9%96%8B%E5%95%9F-SourceTree (starting from the index `開啟SourceTree`)
-3. Open Scourcetree and press `Add Existing Local Repository`, then upload the FOLDER.
-4. Open SourceTree, and press `Commit` on the upper left, type _________ commit (ex. link update commit), and press `Commit` on the bottom right.
+Tutorial (starting from the index `開啟SourceTree`) : https://s81679.github.io/2020/04/09/start-sourcetree/#%E9%96%8B%E5%95%9F-SourceTree 
+3. Open Scourcetree and press `Create Local Repository`, and choose Project_Folder.
+4. Open SourceTree, and press `Commit` on the upper left. Type _________ commit (ex. link update commit) and press `Commit` on the bottom right.
 5. Press `Push` to upload the changes on GitHub.
 
    NOTICE: For Mac users, here are the steps for macOS not saving Git Pull/Push access tokens (do not press Push and do these instead):
@@ -61,8 +59,8 @@ Tutorial: https://s81679.github.io/2020/04/09/start-sourcetree/#%E9%96%8B%E5%95%
 1. Open the corresponding GitHub repository.
 2. Enable Git Pages (Select the repository >> Settings >> Pages >> Press the link in bold)
 3. Select master branch (or the primary branch).
-4. wait a few minute. 
-5. Open the GitHub Pages link to check everything works properly.
+4. Wait for a few minute. 
+5. Open the GitHub Pages link to check if everything works properly.
 
 ## For Gmail Outreach Sponsors: Copy the Context From Git Pages
 Copy all content from GitHub Pages and paste it directly into the email body for Gmail delivery.
